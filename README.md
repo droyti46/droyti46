@@ -3,18 +3,28 @@
 </p>
 
 <p align="center">My name is Nikita, I'm 16 years old and I from Novosibirsk, Russia</p>
-
+<p align="center">
+  <a href="https://t.me/droyti">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:nikitabakutov2008@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://vk.com/nikita_bakutov">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
+  </a>
+</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=droyti46&show_icons=true&theme=dark#gh-dark-mode-only"/></p>
 
 <br>
-<h2 align="center">👨‍💻 About Me</h2>
+<h2>👨‍💻 About Me</h2>
 
 - I'm learning Python and Data Science libraries
 - I want to become an ML researcher
 - In my free time I create games
 
 <br>
-<h2 align="center">🚀 My Toolkit</h2>
+<h2>🚀 My Toolkit</h2>
 
 ### Data Science
 <div>
@@ -42,22 +52,6 @@
 </div>
 
 <br>
-<h2 align="center">🌟 Featured Projects</h2>
+<h2>🌟 Featured Projects</h2>
 
-<p align="center"><img src="img/zoopy-logo.png" width=200px></p>
-
-<p align="center"> 🐾 <a href="https://github.com/droyti46/zoopy">ZooPy</a> - Library for working with animal data</p>
-<br>
-<h2 align="center">📫 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://t.me/droyti">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:nikitabakutov2008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://vk.com/nikita_bakutov">
-    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
-  </a>
-</p>
+[![ZooPy Repo](https://github-readme-stats.vercel.app/api/pin/?username=droyti46&repo=zoopy&theme=dark)](https://github.com/droyti46/zoopy)
