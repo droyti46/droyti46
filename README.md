@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=PIXY&size=64&duration=3000&pause=1000&center=true&vCenter=true&random=true&width=435&height=80&lines=Hi+There+%F0%9F%91%BE" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">My name is Nikita, I'm 16 years old and I from Novosibirsk, Russia</p>
+<p align="center">My name is Nikita Bakutov, I'm 16 years old and I from Novosibirsk, Russia</p>
 <p align="center">
   <a href="https://t.me/droyti">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
