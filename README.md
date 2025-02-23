@@ -1,7 +1,8 @@
-# Hi there! 👋
-My name is Nikita, I'm 16 years old and I from Novosibirsk, Russia
+<h1 align="center">Hi there! 👋</h1>
 
-## 🚀 My Toolkit
+<p align="center">My name is Nikita, I'm 16 years old and I from Novosibirsk, Russia</p>
+
+<h2 align="center">🚀 My Toolkit</h2>
 
 ### Data Science
 <div>
@@ -27,7 +28,10 @@ My name is Nikita, I'm 16 years old and I from Novosibirsk, Russia
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-## 🌟 Featured Projects
+
+<h2 align="center">🌟 Featured Projects</h2>
+
+<img src="img/zoopy-logo.png" width=200px>
 
 - 🐾 [ZooPy](https://github.com/droyti46/zoopy/tree/main) - Library for working with animal data
 
