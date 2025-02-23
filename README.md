@@ -7,6 +7,13 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=droyti46&show_icons=true&theme=dark#gh-dark-mode-only"/></p>
 
 <br>
+<h2 align="center">👨‍💻 About Me</h2>
+
+- I'm learning Python and Data Science libraries
+- I want to become an ML researcher
+- In my free time I create games
+
+<br>
 <h2 align="center">🚀 My Toolkit</h2>
 
 ### Data Science
@@ -39,7 +46,7 @@
 
 <p align="center"><img src="img/zoopy-logo.png" width=200px></p>
 
-<p align="center"> 🐾<a href="https://github.com/droyti46/zoopy">ZooPy</a> - Library for working with animal data</p>
+<p align="center"> 🐾 <a href="https://github.com/droyti46/zoopy">ZooPy</a> - Library for working with animal data</p>
 <br>
 <h2 align="center">📫 Connect With Me</h2>
 
