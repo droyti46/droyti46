@@ -1,4 +1,6 @@
-<h1 align="center">Hi there! 👋</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=PIXY&size=64&duration=3000&pause=1000&center=true&vCenter=true&random=true&width=435&height=80&lines=Hi+There+%F0%9F%91%BE" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">My name is Nikita, I'm 16 years old and I from Novosibirsk, Russia</p>
 
@@ -31,11 +33,12 @@
 
 <h2 align="center">🌟 Featured Projects</h2>
 
-<img src="img/zoopy-logo.png" width=200px>
+<p align="center"><img src="img/zoopy-logo.png" width=200px></p>
 
-- 🐾 [ZooPy](https://github.com/droyti46/zoopy/tree/main) - Library for working with animal data
+<p align="center"> 🐾<a href="https://github.com/droyti46/zoopy">ZooPy</a> - Library for working with animal data</p>
 
-## 📫 Connect With Me
+<h2 align="center">📫 Connect With Me</h2>
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/yourusername](https://t.me/droyti))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitabakutov2008@gmail.com)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/nikita_bakutov)
