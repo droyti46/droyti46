@@ -24,6 +24,12 @@
 - In my free time I create games
 
 <br>
+<h2>🏆 Achievements</h2>
+
+- Winner of "Start the Game" 2024
+- Finalist of "National Technology Olympiad" in the profile of "Big Data and Machine learning" 2023-2024
+
+<br>
 <h2>🚀 My Toolkit</h2>
 
 <h3>Data Science</h3>
