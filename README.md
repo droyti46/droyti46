@@ -27,13 +27,13 @@
 <h2>🏆 Achievements</h2>
 
 - 🏆 Winner of [Начни Игру 2024](https://vk.com/startgame_rsv)
-- 🏆 Winner in regional stage of [Большие вызовы 2024-2025](https://konkurs.sochisirius.ru/)
+- 🏆 Winner in regional stage of [Большие вызовы 2024-2025](https://konkurs.sochisirius.ru/) in the profile of "Большие данные и ИИ"
 - 🥈 2nd place in regional stage of [Профессионалы](https://pro.firpo.ru/) in the profile of "Машинное обучение и большие данные 2024"
 - 🥈 2nd place in regional stage of [Профессионалы](https://pro.firpo.ru/) in the profile of "Машинное обучение и большие данные 2025"
 - 🥉 3rd place in [Региональный чемпионат по CV и ИИ на Кубок Губернатора НСО 2024](https://avt.global/nsk2024)
 - Finalist of "НТО" in the profile of [Большие даные и машинное обучение](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/) 2023-2024
 - Finalist of "НТО" in the profile of [Большие даные и машинное обучение](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/) 2024-2025
-- Finalist of [Старт в инновации 2024-2025](https://starttoinnovate.go2phystech.ru/)
+- Finalist of [Старт в науку 2024-2025](https://start.mipt.ru/)
 
 <br>
 <h2>🚀 My Toolkit</h2>
