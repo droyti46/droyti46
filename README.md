@@ -4,6 +4,12 @@
 
 <p align="center">My name is Nikita Bakutov, I'm 16 years old and I am from Novosibirsk, Russia</p>
 <p align="center">
+  <a href="https://www.kaggle.com/nikitabakutov">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
+  </a>
+  <a href="https://huggingface.co/droyti">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  </a>
   <a href="https://t.me/droyti">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
