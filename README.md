@@ -97,4 +97,5 @@
 <br>
 <h2>🌟 Featured Projects</h2>
 
+[![ICEQ Repo](https://github-readme-stats.vercel.app/api/pin/?username=phantom2059&repo=ICEQ&theme=dark)](https://github.com/phantom2059/ICEQ)
 [![ZooPy Repo](https://github-readme-stats.vercel.app/api/pin/?username=droyti46&repo=zoopy&theme=dark)](https://github.com/droyti46/zoopy)
