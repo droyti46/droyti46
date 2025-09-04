@@ -35,6 +35,13 @@
 - 👨‍💻 Full-stack Developer at [Sandboxer](https://sandboxer.ru/) (Sep 2025 – Present)
 
 <br>
+<h2>🎮 Indie Projects</h2>
+
+- **Founder & Lead Developer** of an [Cloudy Team](t.me/cloudy_gameteam) (2024 – Present)  
+  - Developing roguelike using Godot  
+  - Managing a small distributed team of programmers and artists
+
+<br>
 <h2>🏆 Achievements</h2>
 
 - 🏆 Winner of [Начни Игру 2024](https://vk.com/startgame_rsv)
