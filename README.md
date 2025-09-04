@@ -30,6 +30,11 @@
 - In my free time I create games
 
 <br>
+<h2>💼 Work Experience</h2>
+
+- 👨‍💻 Full-stack Developer at [Sandboxer](https://sandboxer.ru/) (Sep 2025 – Present)
+
+<br>
 <h2>🏆 Achievements</h2>
 
 - 🏆 Winner of [Начни Игру 2024](https://vk.com/startgame_rsv)
