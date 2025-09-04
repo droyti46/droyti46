@@ -39,9 +39,11 @@
 
 - 🏆 Winner of [Начни Игру 2024](https://vk.com/startgame_rsv)
 - 🏆 Winner in regional stage of [Большие вызовы 2024-2025](https://konkurs.sochisirius.ru/) in the profile of "Большие данные и ИИ"
+- 🥈 2nd place in [Конкурс юных предпринимателей](https://business.foxford.ru/) by Foxford
 - 🥈 2nd place in regional stage of [Профессионалы](https://pro.firpo.ru/) in the profile of "Машинное обучение и большие данные 2024"
 - 🥈 2nd place in regional stage of [Профессионалы](https://pro.firpo.ru/) in the profile of "Машинное обучение и большие данные 2025"
 - 🥉 3rd place in [Региональный чемпионат по CV и ИИ на Кубок Губернатора НСО 2024](https://avt.global/nsk2024)
+- Finalist of [Техностартап 2025](https://altairdonso.ru/2025/04/02/iv-regionalnyj-investiczionnyj-konkurs-tehnostartap-2025/)
 - Finalist of "НТО" in the profile of [Большие даные и машинное обучение](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/) 2023-2024
 - Finalist of "НТО" in the profile of [Большие даные и машинное обучение](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/) 2024-2025
 - Finalist of [Старт в науку 2024-2025](https://start.mipt.ru/)
@@ -74,6 +76,7 @@
 
   <h4>NLP</h4>
   <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white">
 </div>
 
 ---
@@ -89,6 +92,7 @@
 
 ### Application Development
 <div>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -102,6 +106,6 @@
 <br>
 <h2>🌟 Featured Projects</h2>
 
-[![ICEQ Repo](https://github-readme-stats.vercel.app/api/pin/?username=rimgro&repo=biocadprotein&theme=dark)](https://github.com/rimgro/biocadprotein/tree/dev)
+[![Biocad Repo](https://github-readme-stats.vercel.app/api/pin/?username=droyti46&repo=safire&theme=dark)](https://github.com/droyti46/safire)
+[![Biocad Repo](https://github-readme-stats.vercel.app/api/pin/?username=rimgro&repo=biocadprotein&theme=dark)](https://github.com/rimgro/biocadprotein/tree/dev)
 [![ICEQ Repo](https://github-readme-stats.vercel.app/api/pin/?username=phantom2059&repo=ICEQ&theme=dark)](https://github.com/phantom2059/ICEQ)
-[![ZooPy Repo](https://github-readme-stats.vercel.app/api/pin/?username=droyti46&repo=zoopy&theme=dark)](https://github.com/droyti46/zoopy)
