@@ -32,7 +32,7 @@
 <br>
 <h2>💼 Work Experience</h2>
 
-- 👨‍💻 Full-stack Developer at [Sandboxer](https://sandboxer.ru/) (Sep 2025 – Present)
+- 👨‍💻 Junior Research Engineer at [Sandboxer](https://sandboxer.ru/) (Sep 2025 – Present)
 
 <br>
 <h2>🎮 Indie Projects</h2>
