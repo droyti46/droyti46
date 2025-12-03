@@ -37,7 +37,7 @@
 <br>
 <h2>🎮 Indie Projects</h2>
 
-- **Founder & Lead Developer** of an [Cloudy Team](t.me/cloudy_gameteam) (2024 – Present)  
+- **Founder & Lead Developer** of an [Cloudy Team](https://t.me/cloudy_gameteam) (2024 – Present)  
   - Developing roguelike using Godot  
   - Managing a small distributed team of programmers and artists
 
